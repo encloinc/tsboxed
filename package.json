@@ -1,7 +1,7 @@
 {
-  "name": "boxedresponse",
+  "name": "bxrs",
   "version": "1.0.0",
-  "description": "Boxed is a collection of types and builders for safe error handling on typescript.",
+  "description": "Bxrs (Boxed response) is a collection of types and builders for safe error handling on typescript.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {

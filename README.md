@@ -1,4 +1,4 @@
-# boxedresponse
+# Bxrs (Boxed Response)
 
 > Rust-inspired Result ergonomics for TypeScript services that require explicit, typed error propagation.
 
